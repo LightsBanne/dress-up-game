@@ -1,0 +1,52 @@
+#container {
+position:absolute;
+margin: auto;
+width: 755px;
+height: 987px;
+background-color: yellow;
+}
+
+#background {
+    position: absolute;
+    width: 555px;
+    height: 987px;
+    left: 100px;
+    right: 100px;
+    background-image: url("https://i.ibb.co/9WDVW8m/Sem-t-tulo.png");
+}
+
+#basea {
+    position: absolute;
+    width: 311px;
+    height: 898px;
+    background-image: url("https://i.ibb.co/LQGpZNr/base.png");
+    background-repeat: no-repeat;
+
+}
+.dress1 {
+    
+    margin-top: 10rem;
+    position: absolute;
+    width: 311px;
+    height: 898px;
+    background-image: url("https://i.ibb.co/qB4SfSZ/vestido1.png");
+    background-repeat: no-repeat;
+
+}
+.dress2 {
+    margin-top: 10rem;
+    position: absolute;
+    width: 311px;
+    height: 898px;
+    background-image: url("https://i.ibb.co/9242bcW/vestido2.png");
+    background-repeat: no-repeat;
+}
+.dress3 {
+    margin-top: 10rem;
+    position: absolute;
+    width: 311px;
+    height: 898px;
+    background-image: url("https://i.ibb.co/zSGP1w9/vestido3.png");
+    background-repeat: no-repeat;
+
+}
